@@ -29,14 +29,11 @@ body {
 
 .vin {
   font-family: 'Playfair Display', serif;
-  color: #ef3193;
 }
 
 .culum {
   font-family: 'Playfair Display', serif;
-  color: #2658a7;
-  font-variant: small-caps;
-  font-style: italic;
+/* something can be explored here in future */
 }
 
 .typewrite > .wrap {
