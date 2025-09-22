@@ -26,14 +26,18 @@ body {
 }
 
 .vin {
+  font-family: 'Playfair Display', serif;
   color: #ef3193;
 }
 
 .culum {
+  font-family: 'Playfair Display', serif;
   color: #2658a7;
+  font-variant: small-caps;
   font-style: italic;
 }
 
 .typewrite > .wrap {
   border-right: 0.08em solid #fff;
 }
+
