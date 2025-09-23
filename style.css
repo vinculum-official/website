@@ -8,6 +8,8 @@
 }
 
 body {
+  font-family: 'font01', sans-serif; 
+  /* custom font */
   background-color: #1D1D20;
   color: #fff;
   /* Make the body a flex container */
