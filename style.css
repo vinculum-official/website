@@ -1,43 +1,7 @@
-@font-face {
-  font-family: "font01";
-  src: 
-    local("SF UI Display Black"),
-    url("sf-h1.otf") format("opentype");
-  font-weight: normal;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&display=swap');
 
 body {
-  font-family: 'font01', sans-serif; 
+  font-family: 'Host Grotesk', sans-serif; 
   /* custom font */
-  background-color: #1D1D20;
-  color: #fff;
-  /* Make the body a flex container */
-  display: flex;
-  /* Center items horizontally */
-  justify-content: center;
-  /* Center items vertically */
-  align-items: center;
-  /* Make sure the body takes up the full height of the viewport */
-  height: 100vh;
-  /* Remove any default padding from the body */
-  margin: 0;
-}
-
-* {
-  color: #f2ecce;
-  text-decoration: none;
-}
-
-.vin {
-  font-family: 'Playfair Display', serif;
-}
-
-.culum {
-  font-family: 'Playfair Display', serif;
-/* something can be explored here in future */
-}
-
-.typewrite > .wrap {
-  border-right: 0.08em solid #fff;
+  background-color: #26262a;
 }
